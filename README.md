@@ -8,10 +8,12 @@
 <div style="text-align: center;">끊임 없는 질문과 고찰을 통해 성장하고 싶습니다.</div>
 <br>
 <br>
+<br>
+<br>
 <hr>
 
-<div style="text-align: center; margin: 3em 0;">⚔️ Skills ⚔️</div>
-<ul style="list-style: none; display: flex; justify-content: space-evenly; margin: 0;">
+<div style="text-align: center;">⚔️ Skills ⚔️</div>
+<ul style="list-style: none;">
     <li><img src="https://img.shields.io/badge/-JAVA-d42828?style=flat&logo=Java&logoColor=f8fff7"/></li>
     <li><img src="https://img.shields.io/badge/-Spring Boot-d97823?style=flat&logo=Spring&logoColor=f8fff7"/></li>
     <li><img src="https://img.shields.io/badge/-HTML-d3d92b?style=flat&logo=HTML5&logoColor=f8fff7"/></li>
