@@ -8,8 +8,6 @@
 <div style="text-align: center;">끊임 없는 질문과 고찰을 통해 성장하고 싶습니다.</div>
 <br>
 <br>
-<br>
-<br>
 <hr>
 
 <div style="text-align: center; margin: 3em 0;">⚔️ Skills ⚔️</div>
