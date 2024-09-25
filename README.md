@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/-CSS-4fc229?style=flat&logo=CSS Wizardry&logoColor=f8fff7"/>
 <img src="https://img.shields.io/badge/-JavaScript-2961c2?style=flat&logo=JavaScript&logoColor=f8fff7"/>
 <img src="https://img.shields.io/badge/-MySQL-2933c2?style=flat&logo=MySQL&logoColor=f8fff7"/>
+<img src="https://img.shields.io/badge/-MariaDB-2933c2?style=flat&logo=MariaDB&logoColor=f8fff7"/>
 
 
 <br>
