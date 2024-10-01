@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=bae-be&fontSize=90" />
   
 
-안녕하세요.👋 변화를 두려워하지 않는 초보 개발자 bae-be입니다.  
-
-끊임 없는 질문과 고찰을 통해 성장하고 싶습니다.
+안녕하세요.👋 주니어 개발자 배병현입니다.
 
 ----
 <br>
