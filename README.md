@@ -23,9 +23,9 @@
 <br>
 <br>
 
-![hwaku's github stats](https://github-readme-stats.vercel.app/api?username=hwaku&theme=dark&show_icons=true)
+![bae-be's github stats](https://github-readme-stats.vercel.app/api?username=bae-be&theme=dark&show_icons=true)
 
 <br>
 <br>
 
-[![hwaku's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwaku&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwaku)
+[![bae-be's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bae-be&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bae-be)
