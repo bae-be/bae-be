@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=bae-be&fontSize=90" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Bae-be}"/>
+</a>
   
 
 안녕하세요.👋 주니어 개발자 배병현입니다.
