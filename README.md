@@ -1,5 +1,7 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Bae-be}"/>
+  <img src="https://render.gitanimals.org/farms/{Bae-be}"
+    width=100%
+  />
 </a>
   
 
